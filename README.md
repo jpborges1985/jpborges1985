@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Joao Paulo (JP) Borges
 
-**`Strategic Project Manager | DevOps Engineer | PMP & AWS Certified`**
+**`Senior Project Manager | DevOps Engineer | PMP & AWS Certified`**
 
 With over 15 years of experience leading complex information systems projects, I have spent the last year merging my project management rigor with a deep passion for DevOps engineering. My transition into DevOps is driven by a belief that high-quality software delivery requires both structured leadership and seamless automation.
 
