@@ -93,7 +93,7 @@ Currently, I am actively applying DevOps methodologies to bridge the gap between
 <br/>
 ---
 
-### 📊 Estatísticas
+### 📈 Statistics
 
 <p>
   <img 
@@ -101,14 +101,14 @@ Currently, I am actively applying DevOps methodologies to bridge the gap between
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jpborges1985&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=jpborges1985&show_icons=truetheme=tokyonight" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpborges1985&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpborges1985&theme=tokyonight&layout=compact&custom_title=Tecnology&langs_count=9" 
   />
 
 </p>
